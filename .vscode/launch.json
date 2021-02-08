@@ -1,0 +1,70 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch ShapePainter",
+            "request": "launch",
+            "mainClass": "Lab_05.ShapePainter",
+            "projectName": "OOP_Labs_44fdfcb"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab02_01",
+            "request": "launch",
+            "mainClass": "Lab_02.Lab02_01",
+            "projectName": "OOP_Labs_44fdfcb"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab02_02",
+            "request": "launch",
+            "mainClass": "Lab_02.Lab02_02",
+            "projectName": "OOP_Labs_44fdfcb"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab02_03",
+            "request": "launch",
+            "mainClass": "Lab_02.Lab02_03",
+            "projectName": "OOP_Labs_44fdfcb"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab02_04",
+            "request": "launch",
+            "mainClass": "Lab_02.Lab02_04",
+            "projectName": "OOP_Labs_44fdfcb"
+        },
+        {
+            "type": "java",
+            "name": "Launch CircleProgram",
+            "request": "launch",
+            "mainClass": "Lab_03.CircleProgram",
+            "projectName": "OOP_Labs_44fdfcb"
+        },
+        {
+            "type": "java",
+            "name": "Launch PaymentCalculator",
+            "request": "launch",
+            "mainClass": "Lab_03.PaymentCalculator",
+            "projectName": "OOP_Labs_44fdfcb"
+        },
+        {
+            "type": "java",
+            "name": "Launch BmiProgram",
+            "request": "launch",
+            "mainClass": "Lab_04.BmiProgram",
+            "projectName": "OOP_Labs_44fdfcb"
+        }
+    ]
+}
