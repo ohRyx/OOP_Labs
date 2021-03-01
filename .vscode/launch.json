@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch HashMapExercise",
+            "request": "launch",
+            "mainClass": "Lab_07.HashMapExercise",
+            "projectName": "OOP_Labs_44fdfcb"
+        },
+        {
+            "type": "java",
+            "name": "Launch StackExercise",
+            "request": "launch",
+            "mainClass": "Lab_07.StackExercise",
+            "projectName": "OOP_Labs_44fdfcb"
+        },
+        {
+            "type": "java",
+            "name": "Launch scrap",
+            "request": "launch",
+            "mainClass": "scrap",
+            "projectName": "OOP_Labs_44fdfcb"
+        },
+        {
+            "type": "java",
+            "name": "Launch test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "OOP_Labs_44fdfcb"
+        },
+        {
+            "type": "java",
             "name": "Launch ShapePainter",
             "request": "launch",
             "mainClass": "Lab_05.ShapePainter",
