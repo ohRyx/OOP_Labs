@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch CrawlerProgram",
+            "request": "launch",
+            "mainClass": "Lab_06.CrawlerProgram",
+            "projectName": "OOP_Labs_44fdfcb"
+        },
+        {
+            "type": "java",
+            "name": "Launch RegistrationForm",
+            "request": "launch",
+            "mainClass": "Lab_08.RegistrationForm",
+            "projectName": "OOP_Labs_44fdfcb"
+        },
+        {
+            "type": "java",
+            "name": "Launch TaxCalculator",
+            "request": "launch",
+            "mainClass": "Lab_08.TaxCalculator",
+            "projectName": "OOP_Labs_44fdfcb"
+        },
+        {
+            "type": "java",
             "name": "Launch HashMapExercise",
             "request": "launch",
             "mainClass": "Lab_07.HashMapExercise",
