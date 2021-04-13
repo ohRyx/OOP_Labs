@@ -33,6 +33,6 @@ public class HashMapExercise {
     students.remove(003);
 
     // Display a collection of the values in the HashMap
-    System.out.println(students);
+    System.out.println(students.values());
     }
 }

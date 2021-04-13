@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch hash",
+            "request": "launch",
+            "mainClass": "Test_Labs.hash",
+            "projectName": "OOP_Labs_44fdfcb"
+        },
+        {
+            "type": "java",
             "name": "Launch CrawlerProgram",
             "request": "launch",
             "mainClass": "Lab_06.CrawlerProgram",
